@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.landing {
+    padding: 2rem;
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+}
+
+.distortion {
+    width: 50%;
+    min-width: 620px;
+    height: 920px;
+    align-self: flex-end;
+}
+
+.intro {
+    align-self: center;
+}
+
+.intro h2 {
+    font-size: 3rem;
+    margin-bottom: 2rem;
+}
+
+.intro p {
+    font-size: 1.3rem;
+}
